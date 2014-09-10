@@ -1,15 +1,15 @@
 1. Sam Harris
-	1. Waking Up With Sam Harris
-	2. Books by Sam Harris
-	3. The Blog
-		1. Waking Up: Chapter One
-		2. Making Sense of Gaza
-		3. Why Don't I Criticize Israel?
-		4. Clarifying the Moral Landscape
-		5. The Moral Landscape Challenge
-		6. Adventures in the Land of Illness
-		7. Lifting the Veil of “Islamophobia”
-	4. Untitled Nav Section	
-		1. Get Sam's Email Newsletter
-		2. Site RSS
-		3. A Book for Young Children 
+  1. Waking Up With Sam Harris
+  2. Books by Sam Harris
+  3. The Blog
+    1. Waking Up: Chapter One
+    2. Making Sense of Gaza
+    3. Why Don't I Criticize Israel?
+    4. Clarifying the Moral Landscape
+    5. The Moral Landscape Challenge
+    6. Adventures in the Land of Illness
+    7. Lifting the Veil of “Islamophobia”
+  4. Untitled Nav Section	
+    1. Get Sam's Email Newsletter
+    2. Site RSS
+    3. A Book for Young Children 
